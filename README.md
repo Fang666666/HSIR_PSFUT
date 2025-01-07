@@ -1,3 +1,5 @@
 # HSIR_PSFUT
-Imaging Insights: Leveraging PSF Effects in Unfolding Transformer for Hyperspectral Image Reconstruction
-Coming soon!
+<p>Imaging Insights: Leveraging PSF Effects in Unfolding Transformer for Hyperspectral Image Reconstruction
+  <br>
+  Coming soon!
+</p>
